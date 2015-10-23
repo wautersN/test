@@ -19,5 +19,6 @@ public class MainActivityFragment extends Fragment {
                              Bundle savedInstanceState) {
         return inflater.inflate(R.layout.fragment_main, container, false);
         //Naar nieuwe branch
+        //nieuwe commit op de nieuwste branch
     }
 }
