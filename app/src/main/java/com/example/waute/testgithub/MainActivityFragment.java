@@ -20,5 +20,6 @@ public class MainActivityFragment extends Fragment {
         return inflater.inflate(R.layout.fragment_main, container, false);
         //Naar nieuwe branch
         //nieuwe commit op de nieuwste branch
+        //mergen met de master
     }
 }
