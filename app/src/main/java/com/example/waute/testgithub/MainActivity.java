@@ -62,4 +62,6 @@ public class MainActivity extends AppCompatActivity {
     //nieuwe Testhoogte2
     //1 push op hoogte2
     //na dees keer mergen met den hoogte1
+
+    //2de push op hoogte1
 }
