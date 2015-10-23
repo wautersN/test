@@ -65,4 +65,5 @@ public class MainActivity extends AppCompatActivity {
 
     //2de push op hoogte1
     //alles nu op hoogte 1?
+    //alles vanop master eens bezien
 }
