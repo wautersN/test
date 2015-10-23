@@ -64,4 +64,5 @@ public class MainActivity extends AppCompatActivity {
     //na dees keer mergen met den hoogte1
 
     //2de push op hoogte1
+    //alles nu op hoogte 1?
 }
