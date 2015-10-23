@@ -26,5 +26,6 @@ public class MainActivityFragment extends Fragment {
         //klein testje tussenin
         //test test
 //master?????
+        //nu.???
     }
 }
