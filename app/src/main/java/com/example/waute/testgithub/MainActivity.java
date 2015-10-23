@@ -49,4 +49,5 @@ public class MainActivity extends AppCompatActivity {
     //test2
     //nieuwe branch
     //dees is info voor onder de nieuwe branch te zetten
+    //is dit nu niet gelukt?
 }
